@@ -1,5 +1,5 @@
 ### Version: pGlycoQuant_V1.1
-### Release Date: 2021.08.18
+### Release Date: 2021.08.31
 
 
 ## Description
