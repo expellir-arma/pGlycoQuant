@@ -15,8 +15,8 @@
 
 
 ## GUI Operation Usage
-####  Please read Manual.pptx to learn the useage of pGlycoQuant.
-####  The dataset used for demo also can be found in Manual.pptx.
+####  Please read Manual_version.2011.11.pdf to learn the useage of pGlycoQuant.
+####  The dataset used for demo also can be found in Manual_version.2011.11.pdf.
 
 
 ## Other notes
